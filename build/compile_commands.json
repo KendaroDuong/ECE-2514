@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/tilld/Desktop/ECE 2514/ECE-2514/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\CMakeSetUp.dir\\main.cpp.obj -c \"C:\\Users\\tilld\\Desktop\\ECE 2514\\ECE-2514\\main.cpp\"",
+  "file": "C:/Users/tilld/Desktop/ECE 2514/ECE-2514/main.cpp",
+  "output": "CMakeFiles/CMakeSetUp.dir/main.cpp.obj"
+}
+]
